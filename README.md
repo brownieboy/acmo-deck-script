@@ -1,6 +1,6 @@
 # acmo-deck-script
 
-A SteamDeck/Linux script to help install TemplarGFX's Overhaul Mod for Aliens Colonial Marines (ACM).
+A SteamDeck/Linux script to help install TemplarGFX's Overhaul Mod for Aliens Colonial Marines (ACM).  Seriously, you do *not* want to be playing the game without this mod.
 
 This script replicates the functionality of the .bat (Windows batch) file that comes with the installer zips for that Mod.   Windows batch files don't run on Linux/SteamOS, plus the file paths would be all different even if it did run.  The Windows batch file also assumes case insensitivity (i.e. Windows) when renaming stuff, whereas Linux/SteamOS is case sensitive.
 
@@ -53,7 +53,7 @@ Then hit your Enter key when prompted.
 
 ### Copy over the 6.2 patch files
 
-Find the folder for the 6.2 patch in your Downloads folder that you extracted earlier. Drag and drop the contents of the folder into your ACM files folder, like you did with the full 6.0 update folder contents. At the various Dolphin prompts, choose the exact same options that you did for the 6.0 patch copy.
+Find the folder for the 6.2 patch in your Downloads folder, which you extracted earlier. Drag and drop the contents of the folder into your ACM files folder, like you did with the full 6.0 update folder contents. At the various Dolphin prompts, choose the exact same options that you did for the 6.0 patch copy.
 
 There is no script to run this time.
 
