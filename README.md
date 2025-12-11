@@ -25,7 +25,7 @@ After downloading, extract each of the two zip files to your Downloads folder. Y
 
 ### Opening the Game Files Folder
 
-I see a lot of instructions on the web for how to find your various game files on the different platforms, e.g. for Windows they may be in this folder, but on SteamOS they may be one of several other folders.  No need to waste your time with any of this.   The Steam client knows where your game files, so get it to show you.
+I see a lot of instructions on the web for how to find your various game files on the different platforms, e.g. for Windows they may be in this folder, but on SteamOS they may be one of several other folders.  No need to waste your time with any of this.   The Steam client knows where your game files are, so why not get it to show you?
 
 Open the Steam client and go to your ACM entry.  Click the settings (cog) icon, then it's **Manage -> Browse local files**. That will open the Dolphin file at your ACM files folder.  Easy.
 
