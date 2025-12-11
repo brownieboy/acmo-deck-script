@@ -57,10 +57,12 @@ Find the folder for the 6.2 patch in your Downloads folder that you extracted ea
 
 There is no script to run this time.
 
+That's it.  You're done.  Time to run the game.
+
 ## Acknowledgements
 
 Special thanks to:
 
-- TemplarGFX for the [marvellous mod](https://www.moddb.com/mods/templargfxs-acm-overhaul), which makes Aliens Colonial Marines so much better
-- ac2334 for staring [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/), and also to everybody that commented there.
-- ChatGPT for actually writing the script! (I kept an eye on him all the way through.)
+- TemplarGFX for the [marvellous mod](https://www.moddb.com/mods/templargfxs-acm-overhaul), which makes Aliens Colonial Marines so much better.
+- ac2334 for starting [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/), and also to everybody that commented there.
+- ChatGPT for actually writing the script! (I kept a watchful eye on him all the way through the process though.)
