@@ -2,7 +2,9 @@
 
 A SteamDeck/Linux script to help install TemplarGFX's Overhaul Mod for Aliens Colonial Marines (ACM).
 
-As well as updating for Linux, which is case sensitive and has a different file path notation than Windows does, I've also incorporated some suggestions from [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/).
+This script replicates the functionality of the .bat (Windows batch) file that comes with the installer zips for that Mod.   Windows batch files don't run on Linux/SteamOS, plus the file paths would be all different even if it did run.  The Windows batch file also assumes case insensitivity (i.e. Windows) when renaming stuff, whereas Linux/SteamOS is case sensitive.
+
+As well as updating for Linux, I've also incorporated some suggestions from [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/).
 
 ## Installation Instructions
 
