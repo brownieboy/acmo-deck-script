@@ -2,7 +2,7 @@
 
 A SteamDeck/Linux script to help install TemplarGFX's Overhaul Mod for Aliens Colonial Marines (ACM).
 
-As well as updating for Linux, which is case sensitive and has a different file path notation than Windows does, I've also incorporate some suggestions from [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/). Credit to ac2334 for posting that, and also to everybody that commented.
+As well as updating for Linux, which is case sensitive and has a different file path notation than Windows does, I've also incorporate some suggestions from [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/).
 
 ## Installation Instructions
 
@@ -25,7 +25,7 @@ Easy one. Go to the ACM entry in your Steam client, and click on the settings ic
 
 You may want to take a backup of this folder here, just in case this all goes wrong. I suggest you copy it to somewhere outside of the /steamapps folder, so that Steam doesn't pick up your backup as a second copy of the game.
 
-### Copy Over 6.0 patch files
+### Copy Over 6.0 update files
 
 Open the extracted folder for the 6.0 patch in Dolphin. This will be in your Downloads folder.
 
@@ -37,9 +37,9 @@ After dragging, you should pick **Copy**, not **Move**, when prompted by Dolphin
 
 Download the overhaul.sh file from this repo and copy it into your ACM game files folder.
 
-In Dolphin, right click on the overhaul.sh file, and pick **Properties**, then the **Permissions** tab. You need to tick the **Allow executing file as program** checkbox then the OK button.
+In Dolphin, right click on the overhaul.sh file, and pick **Properties**, then the **Permissions** tab. You need to tick the **Allow executing file as program** checkbox then the **OK** button.
 
-Your script is now ready to run. Right click on it again in Dolphin, then pick **Open Terminal Here**. (This may be under the **Actions** menu in later versions of KDE.) That should open the terminal at your ACM files folder.
+Your script is now ready to run. Right click on it again in Dolphin, then pick **Open Terminal Here**. (Note: this may be under the **Actions** menu in later versions of KDE.) That should open the terminal at your ACM game files folder.
 
 To actually run the script, type this into the terminal:
 
@@ -49,8 +49,17 @@ To actually run the script, type this into the terminal:
 
 Then hit your Enter key when prompted.
 
-(You may not need the "./" at the start of the file name - which tells the terminal to look for the file in the current folder - but safest to include it anyway.)
-
-### 6.2 patch
+### Copy over the 6.2 patch files
 
 Find the folder for the 6.2 patch in your Downloads folder that you extracted earlier. Drag and drop the contents of the folder into your ACM files folder, like you did with the full 6.0 update folder contents. At the various Dolphin prompts, choose the exact same options that you did for the 6.0 patch copy.
+
+There is no script to run this time.
+
+
+## Acknowledgements
+
+Special thanks to:
+
+- TemplarGFX for the [marvellous mod](https://www.moddb.com/mods/templargfxs-acm-overhaul), which makes Aliens Colonial Marines so much better
+- ac2334 for staring [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/), and also to everybody that commented there.
+- ChatGPT for actually writing the script!  (I kept an eye on him all the way through.)
