@@ -8,7 +8,7 @@ As well as updating for Linux, I've also incorporated some suggestions from [thi
 
 ## Installation Instructions
 
-Note: the instructions say that the update will only work on a new, pristine copy of the game.  So if you have any mods in here already, you'll need to uninstall the game and then reinstall it using the Steam client.
+Note: the original mod instructions say that the update will only work on a new, pristine copy of the game.  So if you have any mods in here already, you'll need to uninstall the game and then reinstall it using the Steam client.
 
 I've tested this installation on a Manjaro Linux PC and also a SteamDeck OLED.
 
@@ -29,7 +29,7 @@ I see a lot of instructions on the web for how to find your various game files o
 
 Open the Steam client and go to your ACM entry.  Click the settings (cog) icon, then it's **Manage -> Browse local files**. That will open the Dolphin file at your ACM files folder.  Easy.
 
-You may want to take a backup of that folder at this point, just in case this process all goes wrong! I suggest you copy it to somewhere outside of the /steamapps folder, so that Steam doesn't pick up your backup as a second copy of the game.
+You may want to take a backup of that folder at this point, just in case this process all goes wrong! I suggest you copy it to somewhere outside of the /steamapps folder, so that Steam doesn't pick up your backup as a second installation of the game.
 
 ### Copy Over 6.0 update files
 
@@ -65,7 +65,7 @@ chmod +x ./overhaul.sh
 
 #### Run the script
 
-Your script is now ready to run. Right click on it again in Dolphin, then pick **Open Terminal Here**. (Note: this may be under the **Actions** menu in later versions of KDE.) That should open the terminal at your ACM game files folder.
+Your script is now ready to run. Right click on it again in Dolphin, then pick **Open Terminal Here**. (Note: this option may be under the **Actions** menu in later versions of Dolphin.) That should open the terminal at your ACM game files folder.
 
 To actually run the script, type this into the terminal:
 
@@ -86,6 +86,10 @@ You don't need to run any script this time.
 That's it.  You're done.  Time to run the game.
 
 You should see the TemplarGFX splash screen when you run the game from Steam now.
+
+![TemplarGFX splash on Steam Deck 1](images/template-mod-deck1.jpg)
+
+![TemplarGFX splash on Steam Deck 2](images/template-mod-deck2.jpg)
 
 ## Acknowledgements
 
