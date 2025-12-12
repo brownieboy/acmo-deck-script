@@ -95,6 +95,6 @@ You should see the TemplarGFX splash screen when you run the game from Steam now
 
 Special thanks to:
 
-- TemplarGFX for the [marvellous mod](https://www.moddb.com/mods/templargfxs-acm-overhaul), which makes Aliens Colonial Marines so much better.
-- ac2334 for starting [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/), and also to everybody that commented there.
-- ChatGPT for actually writing the script! (I kept a watchful eye on him all the way through the process though.)
+- TemplarGFX for the [marvellous mod](https://www.moddb.com/mods/templargfxs-acm-overhaul), which makes Aliens Colonial Marines so much better.  Still not a classic maybe, but certainly better.
+- ac2334 for starting [this Reddit thread](https://www.reddit.com/r/SteamDeck/comments/14ypjrh/aliens_colonial_marines_templargfx_overhaul_mod/), and also to everybody that commented there.  I incorporated some of suggestions there into this script.
+- ChatGPT for actually writing the script! (I kept a watchful eye on him all the way through the process though. :wink:)
